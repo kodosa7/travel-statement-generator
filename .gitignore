@@ -1,0 +1,12 @@
+*.pyc
+__pycache__
+*venv*
+db.sqlite3
+.DS_Store
+TODO*
+printed*
+output_temp*
+output.xlsx
+Mesta.xlsx
+Mesta.ods
+db_original*
